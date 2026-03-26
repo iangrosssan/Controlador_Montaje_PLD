@@ -1,0 +1,19 @@
+zzz-Controlador_Montaje_PLD/
+├── frontend/                  
+│   ├── styles.qss             
+│   ├── w_calibrate.py         
+│   ├── w_calibrate.ui         
+│   ├── w_connect.py           
+│   └── w_connect.ui           
+├── backend/                   
+│   ├── classes.py             
+│   ├── connection.py          
+│   ├── keyboard.py            
+│   └── routines.py            
+├── Jupyter_Controlador.ipynb  
+├── main.py                    
+├── virtual_motor_controller_1.bin 
+├── virtual_motor_controller_2.bin 
+├── LICENSE                    
+├── README.md                  
+└── structure.txt              
